@@ -1,0 +1,36 @@
+table, th, td{
+    height:40px;
+    box-shadow: 0.5px 0.5px black, 0.5em 0 0.5em black, -0.5em 0 0.5em black;
+    background-color: #F2F2F2;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th{
+    color: white;
+    background-color: #93013c
+}
+td{
+    height: 40px;
+    text-align: left;
+    vertical-align: top;
+    background-color: white;
+  
+}
+th, td{
+    width: 13%;
+}
+
+select{
+    color: #93013c;           
+}
+h1{
+  color: white;
+  text-align: center;
+background-color:  #93013c;      
+}
+input{
+    color:#93013c;
+    border-color: transparent;
+}
